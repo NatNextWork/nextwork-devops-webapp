@@ -6,6 +6,6 @@
 
 <p>This is my NextWork web application working!</p>
 
-</bo
+</body>
 
 </html>
